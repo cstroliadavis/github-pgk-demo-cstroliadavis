@@ -1,5 +1,8 @@
 {
-  "name": "github-pgk-demo",
+  "name": "github-pgk-demo-cstroliadavis",
+  "repository": {
+    "url": "git://github.com/cstroliadavis/github-pgk-demo-cstroliadavis.git"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
